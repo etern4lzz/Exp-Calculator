@@ -9,3 +9,4 @@ The original code by [ mcantcode ](https://github.com/mcantcode), just convertin
 package is only `Lua 5.4` no anything else, for the features or how to works the script please go the original repository [ Exp Calculator ](https://github.com/mcantcode/Exp-Calculator)
 
 # License
+This script was licensed by MIT License
